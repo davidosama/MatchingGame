@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Matching Game</string>
+    <string name="buttonStart">Start</string>
+    <string name="buttonExit">Exit</string>
+    <string name="buttonAbout">About</string>
+    <string name="buttonScores">Scores</string>
+</resources>
